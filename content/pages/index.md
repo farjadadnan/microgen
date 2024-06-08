@@ -1,4 +1,5 @@
 ---
+backgroundColor: white
 blocks:
   - style:
       alignment: flex-col items-center gap-8
@@ -350,111 +351,14 @@ blocks:
       run on **[IPFS](https://ipfs.tech/ "IPFS")**. It’s based on the excellent
       and open source **[Tina CMS](https://tina.io "Tina CMS")**.
     _template: feature
-backgroundColor: white
+background:
+  fillStyles: from-black to-black bg-gradient-to-r opacity-100
+  wrapFillStyles: ' opacity-100'
+  src: /uploads/logo.jpg
+  style: bg-cover
+  position: bg-left
 meta:
   title: Microgen
   description: ''
-background:
-  fillStyles: bg-black opacity-100
-  src: ''
-  style: bg-cover
-  position: bg-left
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
